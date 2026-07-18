@@ -39,7 +39,7 @@ collections:
         widget: select
         options:
           - On the Scent
-          - Leash Law
+          - Grievance Audit
           - Know Your Rights
           - Field Notes
         default: Field Notes
