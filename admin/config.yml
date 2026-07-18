@@ -1,0 +1,53 @@
+backend:
+  name: github
+  repo: Jagar05/freedom-beagle
+  branch: main
+
+site_url: https://jagar05.github.io/freedom-beagle
+display_url: https://jagar05.github.io/freedom-beagle
+logo_url: https://jagar05.github.io/freedom-beagle/assets/img/freedom-beagle-logo.png
+
+media_folder: assets/img/uploads
+public_folder: /freedom-beagle/assets/img/uploads
+
+collections:
+  - name: articles
+    label: Articles
+    label_singular: Article
+    folder: _posts
+    create: true
+    delete: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: articles/{{slug}}.html
+    sortable_fields:
+      fields: [date, title]
+      default:
+        field: date
+        direction: descending
+    fields:
+      - name: title
+        label: Headline
+        widget: string
+        hint: "The article headline as it appears on the site."
+      - name: date
+        label: Publish date
+        widget: datetime
+        time_format: false
+        format: "YYYY-MM-DD"
+      - name: section
+        label: Section
+        widget: select
+        options:
+          - On the Scent
+          - Leash Law
+          - Know Your Rights
+          - Field Notes
+        default: Field Notes
+      - name: dek
+        label: Teaser (dek)
+        widget: text
+        hint: "One or two sentences shown under the headline on the homepage and section pages."
+      - name: body
+        label: Article
+        widget: markdown
+        hint: "The article itself. Use the image button to add photos. For video, paste a YouTube/Rumble embed code."

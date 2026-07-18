@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{{ site.title }} — Off the leash, on the story.</title>
+<meta name="description" content="{{ site.description }}">
+{% include head.html %}
+</head>
+<body>
+
+{% include theme-toggle.html %}
+
+<div class="wrap">
+  <header class="nameplate">
+    <div class="nameplate__eyebrow">
+      <span>Vol. I &middot; No. 1</span>
+      <span>Independent &amp; Unaffiliated</span>
+    </div>
+    <div class="nameplate__main">
+      <img class="nameplate__crest" src="{{ '/assets/img/freedom-beagle-logo.png' | relative_url }}" alt="Freedom Beagle crest">
+      <h1 class="nameplate__wordmark"><a href="{{ '/' | relative_url }}">FREEDOM BEAGLE</a></h1>
+      <p class="nameplate__tagline">Off the leash, on the story.</p>
+      <p class="nameplate__subtagline">Fetching the word you haven't heard</p>
+    </div>
+    <div class="nameplate__rule"></div>
+    <div class="nameplate__stamp-rule"></div>
+    <nav class="nameplate__nav" aria-label="Sections">
+      <a href="{{ '/sections/on-the-scent.html' | relative_url }}">On the Scent</a><span class="sep">/</span>
+      <a href="{{ '/sections/leash-law.html' | relative_url }}">Leash Law</a><span class="sep">/</span>
+      <a href="{{ '/sections/know-your-rights.html' | relative_url }}">Know Your Rights</a><span class="sep">/</span>
+      <a href="{{ '/sections/field-notes.html' | relative_url }}">Field Notes</a>
+    </nav>
+  </header>
+
+  <p class="section-label">Latest</p>
+
+  {% for post in site.posts %}
+  <a class="teaser" href="{{ post.url | relative_url }}">
+    <p class="teaser__kicker">{{ post.section }}</p>
+    <h2 class="teaser__headline">{{ post.title }}</h2>
+    <p class="teaser__dek">{{ post.dek }}</p>
+  </a>
+  {% endfor %}
+
+  {% include footer.html %}
+</div>
+
+<script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
+</body>
+</html>

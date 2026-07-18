@@ -1,0 +1,17 @@
+title: Freedom Beagle
+description: Independent journal on constitutional rights, the law as it actually applies to you, and the current events testing both.
+url: "https://jagar05.github.io"
+baseurl: "/freedom-beagle"
+
+permalink: /articles/:title:output_ext
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: article
+
+exclude:
+  - EDITING.md
+  - README.md
