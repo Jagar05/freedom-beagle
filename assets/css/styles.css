@@ -296,6 +296,35 @@ img { max-width: 100%; display: block; }
   width: 100%;
   height: auto;
 }
+.article__body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 28px 0;
+  font-size: 15px;
+  display: block;
+  overflow-x: auto;
+}
+.article__body th,
+.article__body td {
+  border: 1px solid var(--rule);
+  padding: 8px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+.article__body th {
+  font-family: 'Courier Prime', monospace;
+  font-size: 12px;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  background: var(--paper-dim);
+}
+.article__body td:nth-child(1),
+.article__body td:nth-child(3) {
+  font-variant-numeric: tabular-nums;
+  text-align: center;
+  font-weight: 700;
+}
 .article__sources {
   margin-top: 48px;
   padding-top: 24px;
