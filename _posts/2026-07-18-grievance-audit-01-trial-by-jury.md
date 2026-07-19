@@ -5,7 +5,7 @@ section: Grievance Audit
 dek: "In 1776 we declared independence over, among other things, the denial of jury trials. Today, 97% of federal convictions never see a jury. First entry in a series auditing the Declaration's 27 grievances against the modern record."
 ---
 
-*This is the first entry in The Grievance Audit — a series holding the modern federal record up against the twenty-seven grievances the Declaration of Independence leveled at King George III in 1776. The method is the same every time: quote the grievance, quote what the Founders built to fix it, lay out today's record with citations, and let you decide. Terms of art are defined per Black's Law Dictionary. This is reporting on documents, not legal advice.*
+*This is the first entry in The Grievance Audit — a series holding the modern federal record up against the twenty-seven grievances the Declaration of Independence leveled at King George III in 1776. The method is the same every time: quote the grievance, quote what the Founders built to fix it, and lay out today's record with citations. Terms of art are defined per Black's Law Dictionary. This is reporting on documents, not legal advice.*
 
 ## The grievance
 
@@ -29,6 +29,7 @@ Three provisions, one message: fact-finding by citizens, not by the government's
 - **Trial by jury** — Black's Law Dictionary (12th ed. 2024) defines it as a trial in which the fact-finding function is performed by a body of citizens sworn to render a verdict on the evidence, as distinguished from a bench trial before a judge alone.
 - **Plea bargain** — per Black's, a negotiated agreement in which a criminal defendant pleads guilty to a lesser offense or to one of multiple charges in exchange for a concession from the prosecution. The defining feature: no jury ever hears the case.
 - **In rem** — per Black's, a proceeding taken directly against property rather than against a person. Keep that one in your pocket; it's how the government sues your car.
+- **Res ipsa loquitur** — Black's Law Dictionary (12th ed. 2024): Latin for "the thing speaks for itself"; a doctrine holding that a conclusion may be drawn from the fact of an occurrence itself, without further explanation.
 
 ## The record today
 
@@ -48,7 +49,7 @@ Honesty requires the other side of the ledger. Plea bargaining is voluntary in f
 
 The 1776 grievance was that a distant government decided guilt without juries. The 2026 record is a conviction system where juries decide roughly 3 cases in 100, a forfeiture system that sues property to route around jurors entirely, and agency tribunals that needed a 2024 Supreme Court ruling to start returning cases to real courtrooms. The jury box is still there. The paths around it are just better paved.
 
-You've seen both documents. You decide.
+*Res ipsa loquitur* — the thing speaks for itself.
 
 *Next in the series: "He has erected a multitude of New Offices, and sent hither swarms of Officers to harass our people, and eat out their substance."*
 
