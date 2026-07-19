@@ -325,6 +325,120 @@ img { max-width: 100%; display: block; }
   text-align: center;
   font-weight: 700;
 }
+
+/* ---- Grievance Audit scored card ---- */
+.scorecard {
+  margin: 36px 0;
+  border-top: 2px solid var(--ink);
+}
+.scorecard__row {
+  display: grid;
+  grid-template-columns: 92px 1fr;
+  gap: 22px;
+  padding: 24px 4px;
+  border-bottom: 1px solid var(--rule);
+  align-items: start;
+}
+.scorecard__grade {
+  font-family: 'Libre Caslon Display', Georgia, serif;
+  font-size: 54px;
+  line-height: 1;
+  text-align: center;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+  padding-top: 4px;
+}
+.scorecard__grade--low { color: var(--stamp); }
+.scorecard__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 12px;
+  margin-bottom: 12px;
+}
+.scorecard__num {
+  font-family: 'Courier Prime', monospace;
+  font-size: 12px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.scorecard__title {
+  font-family: 'Libre Caslon Display', Georgia, serif;
+  font-weight: 400;
+  font-size: 23px;
+  margin: 0;
+  line-height: 1.1;
+}
+.scorecard__band {
+  font-family: 'Courier Prime', monospace;
+  font-size: 10px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--stamp);
+  border: 1px solid var(--rule);
+  padding: 3px 9px;
+  border-radius: 2px;
+  white-space: nowrap;
+}
+.scorecard__meter {
+  height: 4px;
+  background: var(--paper-dim);
+  margin: 0 0 14px;
+  overflow: hidden;
+}
+.scorecard__meter > span {
+  display: block;
+  height: 100%;
+  background: var(--ink);
+}
+.scorecard__meter--low > span { background: var(--stamp); }
+.scorecard__judgment {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 16px;
+  line-height: 1.62;
+  margin: 0;
+  color: var(--ink);
+  max-width: 60ch;
+}
+.scorecard__judgment em { font-style: italic; }
+.scorecard__final {
+  text-align: center;
+  padding: 44px 20px;
+  margin-top: 4px;
+  border: 2px solid var(--ink);
+  background: var(--panel);
+}
+.scorecard__final-grade {
+  font-family: 'Libre Caslon Display', Georgia, serif;
+  font-size: clamp(84px, 18vw, 120px);
+  line-height: 1;
+  color: var(--stamp);
+  font-variant-numeric: tabular-nums;
+}
+.scorecard__final-out {
+  font-family: 'Libre Caslon Display', Georgia, serif;
+  font-size: 28px;
+  color: var(--ink-soft);
+}
+.scorecard__final-label {
+  font-family: 'Courier Prime', monospace;
+  font-size: 12px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-top: 16px;
+}
+.scorecard__final-rule {
+  width: 60px;
+  height: 3px;
+  background: var(--stamp);
+  margin: 18px auto 0;
+}
+@media (max-width: 480px) {
+  .scorecard__row { grid-template-columns: 68px 1fr; gap: 16px; }
+  .scorecard__grade { font-size: 42px; }
+}
 .article__sources {
   margin-top: 48px;
   padding-top: 24px;

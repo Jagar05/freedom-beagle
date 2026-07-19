@@ -36,28 +36,145 @@ No party's talking points. Just where twenty-seven grievances net out in 2026.
 
 ## The scored card
 
-A warning, in the spirit of the whole series: **every other number across these fourteen entries is a measurement** — a docket count, a page tally, a percentage from a court or an agency, each sourced. **These grades are not.** They are the journal's editorial judgment, on a 0–100 scale, of how far the republic has answered each grievance: 100 for one fully resolved, 0 for one fully alive. We publish the rubric so you can argue with the math the way we have asked you to check the facts. Where an entry covers a cluster of grievances, its grade blends them.
+A warning, in the spirit of the whole series: **every other number across these fourteen entries is a measurement** — a docket count, a page tally, a percentage from a court or an agency, each sourced. **These grades are not.** They are the journal's editorial judgment, on a 0–100 scale, of how far the republic has answered each grievance: 100 for one fully resolved, 0 for one fully alive. We publish the rubric so you can argue with the math. Where an entry covers a cluster of grievances, its grade blends them.
 
-Scale: **85+** answered, a founding success kept · **65–84** mostly answered, real fractures · **45–64** mixed and contested · **25–44** rings largely true today · **under 25** actively violated.
+Scale: **85+** answered, a founding success kept · **65–84** mostly answered, real fractures · **45–64** mixed and contested · **25–44** rings true today · **under 25** actively violated. A grade in **red** marks a grievance that still rings true.
 
-| # | Grievance | Grade | The one-line reason |
-|---|---|---|---|
-| 1 | Trial by jury | 32 | Right intact on paper; ~2% of cases reach a jury, forfeiture and agency courts route around it |
-| 2 | The administrative state | 34 | Government can't count its own agencies; 1M+ binding rules; checked only lately, by *Loper Bright* |
-| 3 | Standing armies | 52 | A permanent 1.3M force and a war power drifted to the president — but courts checked the 2025 deployments |
-| 4 | Military above civil power | 74 | No coup, civilian control real; fractures at the SecDef waivers, Guantánamo, and military justice |
-| 5 | Quartering | 82 | The literal grievance is answered; the home-sanctity principle strains under the Fourth Amendment |
-| 6 | Qualified immunity | 30 | A judge-made shield bolted over the statute Congress wrote to hold officials liable |
-| 7 | Taxes without representation | 44 | Honored for most; flatly violated for ~4 million citizens in D.C. and the territories |
-| 8 | Cutting off trade | 54 | Trade-taxing power drifted to the executive, partly reclaimed by the Court in 2026 |
-| 9 | Representative government | 52 | Legislatures secure; representation hollowed by gerrymandering both parties exploit |
-| 10 | Judges dependent | 56 | Article III independence is a triumph; ~700 immigration judges answer to the executive |
-| 11 | Transported beyond seas | 44 | The 2025 CECOT removals revived the exact tactic; the courts are still contesting it |
-| 12 | Obstructing immigration | 50 | An 11.6M-case backlog echoes the grievance — but the levels are a self-governing nation's to set |
-| 13 | Charters & self-government | 64 | The forms of self-rule stand; federal power is vast but still bounded by real federalism limits |
-| 14 | The war grievances | 90 | The republic does not wage war on its own people — the clearest pass on the card |
+<div class="scorecard" markdown="0">
 
-**The republic's grade, averaged across all fourteen entries: 54 / 100.**
+<div class="scorecard__row">
+<div class="scorecard__grade scorecard__grade--low">32</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 1</span><h3 class="scorecard__title">Trial by Jury</h3><span class="scorecard__band">Rings True Today</span></div>
+<div class="scorecard__meter scorecard__meter--low"><span style="width:32%"></span></div>
+<p class="scorecard__judgment">The Sixth and Seventh Amendments still promise it, but in practice the jury has all but vanished: roughly 2% of federal cases reach one, as plea bargaining and its "trial penalty" price the right out of reach. Civil forfeiture sues property to skip jurors entirely, and agency tribunals decided their own cases in-house until 2024. The box still sits in the courtroom; almost no one is allowed to fill it.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade scorecard__grade--low">34</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 2</span><h3 class="scorecard__title">The Administrative State</h3><span class="scorecard__band">Rings True Today</span></div>
+<div class="scorecard__meter scorecard__meter--low"><span style="width:34%"></span></div>
+<p class="scorecard__judgment">The government cannot produce an agreed count of its own agencies — estimates run from 115 to 430-plus — and issues over a million binding regulatory restrictions, roughly nineteen rules for every law Congress passes. For forty years agencies even interpreted the limits of their own power, until <em>Loper Bright</em> ended that in 2024. A "multitude of new offices" is no longer a fear to be warned of; it is the architecture we live inside.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade">52</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 3</span><h3 class="scorecard__title">Standing Armies</h3><span class="scorecard__band">Mixed / Contested</span></div>
+<div class="scorecard__meter"><span style="width:52%"></span></div>
+<p class="scorecard__judgment">A permanent force of 1.3 million in peacetime is exactly what the founders warned against, and the war power has drifted from a Congress that last declared war in 1942 to a presidency that wields it across both parties. But in 2025, when troops were sent into American cities, the courts pushed back all the way to a 6–3 Supreme Court. The leash frayed — and the courts re-gripped it in public. Strained, but holding.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade">74</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 4</span><h3 class="scorecard__title">Military Above Civil Power</h3><span class="scorecard__band">Mostly Answered</span></div>
+<div class="scorecard__meter"><span style="width:74%"></span></div>
+<p class="scorecard__judgment">This is the one the republic mostly got right: civilian control is real, and in nearly 250 years there has never been a coup. The fractures are the caveats — the civilian-Secretary-of-Defense rule waived twice in five years across both parties, a separate justice system for those in uniform, and an offshore military-commission court now two decades old. A genuine success, thinner than it used to be.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade">82</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 5</span><h3 class="scorecard__title">Quartering</h3><span class="scorecard__band">Mostly Answered</span></div>
+<div class="scorecard__meter"><span style="width:82%"></span></div>
+<p class="scorecard__judgment">No soldiers are billeted in American homes; the Third Amendment answered its grievance so completely it fell asleep, with barely a single case in 235 years. The only deduction is that the deeper principle — the home shut against the state — migrated to the Fourth Amendment, where tens of thousands of untracked no-knock raids a year now test it. The specific promise is kept; the spirit is under new management.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade scorecard__grade--low">30</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 6</span><h3 class="scorecard__title">Qualified Immunity</h3><span class="scorecard__band">Rings True Today</span></div>
+<div class="scorecard__meter scorecard__meter--low"><span style="width:30%"></span></div>
+<p class="scorecard__judgment">Congress wrote in 1871 that "every person" who violates rights under color of law "shall be liable." The courts grafted on an immunity found nowhere in that text, shielding officials unless a near-identical case already exists — while ensuring such cases are rarely allowed to be written. It is the grievance's exact machinery: protection from consequence, built by the branch that was supposed to prevent it.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade scorecard__grade--low">44</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 7</span><h3 class="scorecard__title">Taxes Without Representation</h3><span class="scorecard__band">Rings True Today</span></div>
+<div class="scorecard__meter scorecard__meter--low"><span style="width:44%"></span></div>
+<p class="scorecard__judgment">For the overwhelming majority of Americans, the Revolution's founding demand is honored. But for roughly four million citizens — in Washington, D.C., and the territories — it is flatly unmet: they pay federal taxes and have no voting member of Congress, a condition sustained less by constitutional necessity than by the partisan math of who would gain by fixing it. The slogan rides on D.C.'s license plates for a reason.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade">54</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 8</span><h3 class="scorecard__title">Cutting Off Trade</h3><span class="scorecard__band">Mixed / Contested</span></div>
+<div class="scorecard__meter"><span style="width:54%"></span></div>
+<p class="scorecard__judgment">The Constitution gave the trade-taxing power to Congress and pointedly withheld it from the president. Across three statutes Congress handed much of it back to the executive, which pushed that power to its limit in 2025 — until the Supreme Court struck the emergency tariffs in 2026 on "power of the purse" grounds. Reclaimed at the edge, still delegated at the core.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade">52</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 9</span><h3 class="scorecard__title">Representative Government</h3><span class="scorecard__band">Mixed / Contested</span></div>
+<div class="scorecard__meter"><span style="width:52%"></span></div>
+<p class="scorecard__judgment">No one dissolves Congress or cancels elections; the machinery the king attacked is untouchable. The modern threat is subtler — representation hollowed by partisan gerrymandering that lets officials pick their voters, a practice the Supreme Court declined to police in 2019 and that both parties openly worked in 2025. The building still stands. The question is who really decides who lives in it.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade">56</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 10</span><h3 class="scorecard__title">Judges Dependent</h3><span class="scorecard__band">Mixed / Contested</span></div>
+<div class="scorecard__meter"><span style="width:56%"></span></div>
+<p class="scorecard__judgment">For the courts the Constitution names, the grievance is answered and the independence is real — life tenure is why Article III judges could tell the executive "no" throughout 2025. But most people who face "a judge" in a federal proceeding face an executive-branch employee: the roughly 700 immigration judges are Justice Department staff, and about 100 were fired in 2025. One bench is armored; the other answers to the boss.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade scorecard__grade--low">44</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 11</span><h3 class="scorecard__title">Transported Beyond Seas</h3><span class="scorecard__band">Rings True Today</span></div>
+<div class="scorecard__meter scorecard__meter--low"><span style="width:44%"></span></div>
+<p class="scorecard__judgment">In 2025 the government invoked a 1798 statute to fly roughly 137 people to a Salvadoran prison, then argued the transfer itself had placed them beyond the reach of U.S. courts. Judges have pushed back — finding due-process violations and asserting continuing jurisdiction — but the tactic the colonists knew on sight is a live case, not a museum piece. The ocean is the same width; the writ's reach across it is the open question.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade">50</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 12</span><h3 class="scorecard__title">Obstructing Immigration</h3><span class="scorecard__band">Mixed / Contested</span></div>
+<div class="scorecard__meter"><span style="width:50%"></span></div>
+<p class="scorecard__judgment">On this grievance the founders were the pro-immigration party — they attacked a crown for obstructing naturalization to keep the colonies weak. Today a record 11.6-million-case backlog echoes that obstruction. But unlike a colony under a distant king, a self-governing nation has every right to set its own immigration levels, and this audit takes no side on what they should be — only on the fact that the machinery is jammed.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade">64</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 13</span><h3 class="scorecard__title">Charters &amp; Self-Government</h3><span class="scorecard__band">Mixed / Contested</span></div>
+<div class="scorecard__meter"><span style="width:64%"></span></div>
+<p class="scorecard__judgment">No one revokes a state's charter; the forms of self-rule stand in all fifty states, answering the literal grievance. But federal power has expanded to touch nearly everything the founders reserved to the states, checked now only at the edges by a handful of federalism doctrines the Court still enforces. The list of federal powers is still a list — it has just been read very generously.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade">90</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">No. 14</span><h3 class="scorecard__title">The War Grievances</h3><span class="scorecard__band">Answered</span></div>
+<div class="scorecard__meter"><span style="width:90%"></span></div>
+<p class="scorecard__judgment">The clearest pass on the card. The last five grievances describe a king burning his own towns and hiring foreign armies against his people — and the modern United States simply does not do this to its citizens. The one honest echo, the military's reliance on private contractors, is deployed in wars abroad, not at home. A government that does not wage war on its own people has kept the promise that matters most.</p>
+</div>
+</div>
+
+<div class="scorecard__final">
+<div class="scorecard__final-grade">54<span class="scorecard__final-out"> / 100</span></div>
+<div class="scorecard__final-label">The Republic's Grade &middot; averaged across all fourteen entries</div>
+<div class="scorecard__final-rule"></div>
+</div>
+
+</div>
 
 A gentleman's failing mark, and an honest one. It is the number that says what the prose said: not tyranny, not triumph — a country that beat the grievances written in fire and is losing ground on the ones written in fine print. Fifty-four is not a score to celebrate or to despair over. It is a homework grade, handed back with corrections, to a student who is still enrolled.
 
