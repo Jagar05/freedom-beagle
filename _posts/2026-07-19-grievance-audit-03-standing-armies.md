@@ -44,7 +44,7 @@ The architecture is a leash held by the elected branch: Congress raises the forc
 
 - In **August 2025**, a federal district court ruled after trial that the Los Angeles deployment violated the Posse Comitatus Act.
 - In **December 2025**, the Supreme Court, **6–3**, blocked a parallel deployment to Chicago, writing that "the Government has failed to identify a source of authority that would allow the military to execute the laws in Illinois."
-- Also in December 2025, a federal court ordered the federalization of California's Guard to end; the state's governor characterized the ruling in the founders' own idiom — that the government could not keep "a standing army" on the state's streets.
+- Also in December 2025, a federal court ordered the federalization of California's Guard to end; the state's governor characterized the ruling in the Founders' own idiom — that the government could not keep "a standing army" on the state's streets.
 
 Two hundred and forty-nine years after the grievance was written, a federal court was once again being asked whether the executive could station soldiers among the people against the wishes of their elected government. The words came back verbatim.
 
@@ -64,7 +64,7 @@ Two hundred and forty-nine years after the grievance was written, a federal cour
 
 State the strongest opposing case in full. A permanent standing army is, in the modern world, a practical necessity, not a tyrant's luxury — the eighteenth-century militia model cannot defend a continental nation against modern threats, and every serious state maintains a professional force. The army is funded by Congress, whose members are elected, and civilian control of the military — an elected Commander in Chief, a Senate-confirmed leadership, congressional appropriations — is real and, by world-historical standards, remarkably robust. The Insurrection Act deployments that do occur are statutorily authorized: Congress wrote that law, and using it is not lawlessness. The expansion of executive war power is genuinely bipartisan, which cuts against reading it as any one faction's plot. And most important for this audit: in 2025 the constitutional structure **worked.** Governors sued. Trial courts held. A cross-ideological Supreme Court majority told the executive it had failed to find any authority for troops in Illinois. The leash frayed — and then the courts re-gripped it in public, on the record. A system that catches and reverses the overreach is not the system the grievance described. It is, arguably, the system the Founders built doing exactly its job.
 
-All true. And all of it sits atop the fact the audit exists to name: the thing the founders treated as a standing danger — a large permanent army in peacetime, and an executive increasingly able to move it and make war without the legislature — is now the baseline, contested only at its most extreme edges, and defended primarily on the ground that it is necessary and, so far, checked.
+All true. And all of it sits atop the fact the audit exists to name: the thing the Founders treated as a standing danger — a large permanent army in peacetime, and an executive increasingly able to move it and make war without the legislature — is now the baseline, contested only at its most extreme edges, and defended primarily on the ground that it is necessary and, so far, checked.
 
 ## The audit
 

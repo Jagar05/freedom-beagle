@@ -65,7 +65,7 @@ Scale: **85+** answered, a founding success kept · **65–84** mostly answered,
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">No. 3</span><h3 class="scorecard__title">Standing Armies</h3><span class="scorecard__band">Mixed / Contested</span></div>
 <div class="scorecard__meter"><span style="width:52%"></span></div>
-<p class="scorecard__judgment">A permanent force of 1.3 million in peacetime is exactly what the founders warned against, and the war power has drifted from a Congress that last declared war in 1942 to a presidency that wields it across both parties. But in 2025, when troops were sent into American cities, the courts pushed back all the way to a 6–3 Supreme Court. The leash frayed — and the courts re-gripped it in public. Strained, but holding.</p>
+<p class="scorecard__judgment">A permanent force of 1.3 million in peacetime is exactly what the Founders warned against, and the war power has drifted from a Congress that last declared war in 1942 to a presidency that wields it across both parties. But in 2025, when troops were sent into American cities, the courts pushed back all the way to a 6–3 Supreme Court. The leash frayed — and the courts re-gripped it in public. Strained, but holding.</p>
 </div>
 </div>
 
@@ -146,7 +146,7 @@ Scale: **85+** answered, a founding success kept · **65–84** mostly answered,
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">No. 12</span><h3 class="scorecard__title">Obstructing Immigration</h3><span class="scorecard__band">Mixed / Contested</span></div>
 <div class="scorecard__meter"><span style="width:50%"></span></div>
-<p class="scorecard__judgment">On this grievance the founders were the pro-immigration party — they attacked a crown for obstructing naturalization to keep the colonies weak. Today a record 11.6-million-case backlog echoes that obstruction. But unlike a colony under a distant king, a self-governing nation has every right to set its own immigration levels, and this audit takes no side on what they should be — only on the fact that the machinery is jammed.</p>
+<p class="scorecard__judgment">On this grievance the Founders were the pro-immigration party — they attacked a crown for obstructing naturalization to keep the colonies weak. Today a record 11.6-million-case backlog echoes that obstruction. But unlike a colony under a distant king, a self-governing nation has every right to set its own immigration levels, and this audit takes no side on what they should be — only on the fact that the machinery is jammed.</p>
 </div>
 </div>
 
@@ -155,7 +155,7 @@ Scale: **85+** answered, a founding success kept · **65–84** mostly answered,
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">No. 13</span><h3 class="scorecard__title">Charters &amp; Self-Government</h3><span class="scorecard__band">Mixed / Contested</span></div>
 <div class="scorecard__meter"><span style="width:64%"></span></div>
-<p class="scorecard__judgment">No one revokes a state's charter; the forms of self-rule stand in all fifty states, answering the literal grievance. But federal power has expanded to touch nearly everything the founders reserved to the states, checked now only at the edges by a handful of federalism doctrines the Court still enforces. The list of federal powers is still a list — it has just been read very generously.</p>
+<p class="scorecard__judgment">No one revokes a state's charter; the forms of self-rule stand in all fifty states, answering the literal grievance. But federal power has expanded to touch nearly everything the Founders reserved to the states, checked now only at the edges by a handful of federalism doctrines the Court still enforces. The list of federal powers is still a list — it has just been read very generously.</p>
 </div>
 </div>
 

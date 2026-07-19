@@ -53,7 +53,7 @@ The 1776 grievance attacked a king for keeping people out by obstructing natural
 
 *Ubi bene, ibi patria* — where it goes well, there is home. Who gets to make a home here, and how many, is the oldest American argument. The Constitution answered only who decides: the people, through their Congress.
 
-*Next in the series: charters revoked and governments altered — the founders' fear of a distant power that could rewrite self-rule from above.*
+*Next in the series: charters revoked and governments altered — the Founders' fear of a distant power that could rewrite self-rule from above.*
 
 ---
 

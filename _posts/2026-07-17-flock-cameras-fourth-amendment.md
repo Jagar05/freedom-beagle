@@ -2,7 +2,7 @@
 title: The Cameras Don't Need a Warrant. That's the Problem.
 date: 2026-07-17
 section: On the Scent
-dek: There are currently 116,943 license plate readers bolted to poles across the United States right now (that we know of), and counting— and the courts still can't agree on whether that counts as a search.
+dek: There are currently 116,943 license plate readers bolted to poles across the United States (that we know of), and counting — and the courts still can't agree on whether that counts as a search.
 ---
 
 There are more than 100,000 Flock Safety cameras bolted to poles across the United States right now, and there's a good chance one of them has already read your license plate today. It didn't need your permission. It didn't need a warrant. It just needed you to drive past.

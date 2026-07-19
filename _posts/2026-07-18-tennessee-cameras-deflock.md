@@ -17,7 +17,7 @@ Nationwide? **116,943 license plate readers mapped in the United States** as of 
 
 ## But here's the good news — people are fighting back, and winning
 
-DeFlock also keeps a running scoreboard of communities that looked at the cameras and said no. It currently stands at **89 cities and counties** — contracts rejected, contracts canceled, cameras physically deactivated. Los Angeles canceled this month. Madison, Wisconsin shut its cameras off. Ypsilanti, Michigan banned ALPRs outright.
+DeFlock also keeps a running scoreboard of communities that looked at the cameras and said no. It currently stands at **89 cities and counties** — contracts rejected, contracts canceled, cameras physically deactivated. Los Angeles canceled this month. Madison, Wisconsin, shut its cameras off. Ypsilanti, Michigan, banned ALPRs outright.
 
 And one of those 89 is ours: **Knoxville canceled its Flock contract in February 2026.** A Tennessee city looked at the surveillance math and decided it didn't add up. If Knoxville can do it, so can yours.
 
