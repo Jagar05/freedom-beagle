@@ -17,6 +17,7 @@
     <p class="section-page__desc">{{ page.description }}</p>
 
     {% assign section_posts = site.posts | where: "section", page.section %}
+    {% if page.sort == "ascending" %}{% assign section_posts = section_posts | sort: "date" %}{% endif %}
     {% if section_posts.size > 0 %}
       {% for post in section_posts %}
       <a class="teaser" href="{{ post.url | relative_url }}">
