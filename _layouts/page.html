@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <title>{{ page.title }} — {{ site.title }}</title>
-<meta name="description" content="{{ page.dek | strip_html | strip_newlines | truncate: 155 }}">
+<meta name="description" content="{{ page.description }}">
 {% include head.html %}
 </head>
 <body>
@@ -13,10 +13,8 @@
 
 <div class="wrap">
   <article class="article">
-    <p class="article__kicker">{{ page.section }}</p>
     <h1 class="article__headline">{{ page.title }}</h1>
-    <p class="article__byline">FREEDOM BEAGLE STAFF &middot; {{ page.date | date: "%B %-d, %Y" | upcase }}</p>
-
+    {% if page.subtitle %}<p class="article__byline">{{ page.subtitle }}</p>{% endif %}
     <div class="article__body">
       {{ content }}
     </div>
@@ -24,7 +22,7 @@
 
   <footer class="site-footer">
     <span>&copy; 2026 Freedom Beagle. No masters. No leash.</span>
-    <span><a href="{{ '/about.html' | relative_url }}">About &amp; Standards</a> &middot; <a href="{{ '/' | relative_url }}">Home</a></span>
+    <span><a href="{{ '/' | relative_url }}">&larr; Back to home</a></span>
   </footer>
 </div>
 
