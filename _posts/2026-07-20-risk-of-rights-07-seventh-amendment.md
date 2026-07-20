@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 7: The Seventh Amendment — The Civil Jury You Signed Away Without Reading."
 date: 2026-07-20 07:00:00
 section: Risk of Rights
+grade: 32
 dek: "The Seventh Amendment guarantees a jury in civil lawsuits. It is still on the books — and it has been quietly deleted from most of your life by the fine print. The arbitration clause buried in your job offer, your phone contract, and your terms of service waives your right to sue and to a jury, and the Supreme Court has enforced those waivers to the hilt. No. 7 in The Risk of Rights."
 ---
 

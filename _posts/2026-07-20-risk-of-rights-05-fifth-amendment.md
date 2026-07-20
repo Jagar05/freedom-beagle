@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 5: The Fifth Amendment — Five Protections, Pulling in Different Directions."
 date: 2026-07-20 05:00:00
 section: Risk of Rights
+grade: 52
 dek: "The Fifth Amendment is really five guarantees in one: grand jury, double jeopardy, the right to remain silent, due process, and just compensation for takings. Some hold firm. One — your Miranda right — was quietly demoted in 2022. And 'public use' has stretched far enough to take your house for a shopping center. No. 5 in The Risk of Rights."
 ---
 

@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 2: The Second Amendment — The Right That Grew While the Others Shrank."
 date: 2026-07-20 02:00:00
 section: Risk of Rights
+grade: 80
 dek: "Of the ten amendments in the Bill of Rights, the Second is the one whose protection has expanded most in the last twenty years — from a contested collective theory to an individual right the Supreme Court now guards with a demanding new test. Whatever your politics, the audit's finding is the same: this right is ascendant. Entry No. 2 in The Risk of Rights."
 ---
 
@@ -28,7 +29,7 @@ As now construed, the Second Amendment protects an **individual** right to keep 
 
 **In two decades, this right went from contested to constitutionally entrenched.** *District of Columbia v. Heller*, 554 U.S. 570 (2008), first held that the Second Amendment protects an individual right to possess a firearm for self-defense. *McDonald v. City of Chicago*, 561 U.S. 742 (2010), applied that right against the states. Then *New York State Rifle & Pistol Association v. Bruen*, 597 U.S. 1 (2022), extended it beyond the home to public carry — and, more consequentially, replaced the old balancing tests with a demanding new standard: a gun law survives only if the government shows it is "consistent with the Nation's historical tradition of firearm regulation." Text, history, and tradition — not the government's stated interest — now decide.
 
-**That test has thrown gun law nationwide into flux — in the right's favor.** After *Bruen*, dozens of federal and state firearm laws drew fresh constitutional challenges, and some have fallen. In *United States v. Rahimi*, 602 U.S. ___ (2024), the Court did pull back at the edge, holding 8–1 that someone subject to a domestic-violence restraining order may be temporarily disarmed, and clarifying that a modern law needs a "relevantly similar" historical analogue, not an exact "historical twin." But the through-line is unmistakable: the modern Second Amendment is broader, and more aggressively enforced by the courts, than at any point in the nation's history.
+**That test has thrown gun law nationwide into flux — in the right's favor.** After *Bruen*, dozens of federal and state firearm laws drew fresh constitutional challenges, and some have fallen. In *United States v. Rahimi*, 602 U.S. 680 (2024), the Court did pull back at the edge, holding 8–1 that someone subject to a domestic-violence restraining order may be temporarily disarmed, and clarifying that a modern law needs a "relevantly similar" historical analogue, not an exact "historical twin." But the through-line is unmistakable: the modern Second Amendment is broader, and more aggressively enforced by the courts, than at any point in the nation's history.
 
 **The open questions are about the right's outer limits — not its existence.** Live disputes now concern whether nonviolent felons (18 U.S.C. § 922(g)(1)) and drug users can be barred from firearms — the Court took up the drug-user question in *United States v. Hemani* and in early 2026 declined dozens of felon-possession appeals, leaving the lower courts to sort the boundaries. What is *not* in dispute is the core: the individual right stands, and the burden now sits on the government to justify every limit by the standards of 1791.
 
@@ -61,6 +62,6 @@ The 1791 text was one contested sentence. The 2026 record is a robust, individua
 - [*District of Columbia v. Heller*, 554 U.S. 570 (2008)](https://supreme.justia.com/cases/federal/us/554/570/) — individual right recognized
 - [*McDonald v. City of Chicago*, 561 U.S. 742 (2010)](https://supreme.justia.com/cases/federal/us/561/742/) — right applied to the states
 - [*N.Y. State Rifle & Pistol Ass'n v. Bruen*, 597 U.S. 1 (2022)](https://www.supremecourt.gov/opinions/21pdf/20-843_7j80.pdf) — public carry; history-and-tradition test
-- [*United States v. Rahimi*, 602 U.S. ___ (2024)](https://www.supremecourt.gov/opinions/23pdf/22-915_8n5a.pdf) — domestic-violence disarmament upheld 8–1
+- [*United States v. Rahimi*, 602 U.S. 680 (2024)](https://www.supremecourt.gov/opinions/23pdf/22-915_8n5a.pdf) — domestic-violence disarmament upheld 8–1
 - [Congressional Research Service — The Second Amendment at the Supreme Court (LSB11108)](https://www.congress.gov/crs-product/LSB11108) — post-Bruen challenges to federal gun laws
 - Black's Law Dictionary (12th ed. 2024) — definitions: bear arms; incorporation; means-end review

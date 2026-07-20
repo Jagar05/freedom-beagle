@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 6: The Sixth Amendment — A Speedy Public Jury Trial With a Lawyer. Now Pick Two."
 date: 2026-07-20 06:00:00
 section: Risk of Rights
+grade: 42
 dek: "The Sixth Amendment promises the accused a speedy, public trial by an impartial jury, with a lawyer. In practice: the jury has nearly vanished into plea bargains, the 'speedy' trial waits in a years-long backlog, and the promised lawyer is often a public defender buried under hundreds of cases. The right survives. The resources behind it did not. No. 6 in The Risk of Rights."
 ---
 

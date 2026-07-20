@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 8: The Eighth Amendment — Cruel, Unusual, and Increasingly in the Eye of the Beholder."
 date: 2026-07-20 08:00:00
 section: Risk of Rights
+grade: 50
 dek: "The Eighth Amendment bars excessive bail, excessive fines, and cruel and unusual punishment. Its excessive-fines clause just got a landmark win. Its cruel-and-unusual clause just got narrowed against the homeless. And 'excessive bail' still means little to a person too poor to post any. A right whose meaning keeps moving. No. 8 in The Risk of Rights."
 ---
 
@@ -26,7 +27,7 @@ Three limits on the government's power to punish: bail may not be **excessive**,
 
 **The excessive-fines clause got its biggest win in a century.** For most of American history, the Excessive Fines Clause was nearly a dead letter against the states. Then *Timbs v. Indiana*, 586 U.S. 146 (2019), unanimously held that it applies to state and local governments — a real check on the civil-forfeiture machine that seizes property worth many times the underlying offense. As a matter of doctrine, this clause is *stronger* than it has been in generations.
 
-**The cruel-and-unusual clause just narrowed — against the poorest defendants.** In *City of Grants Pass v. Johnson*, 603 U.S. ___ (2024), the Court held 6–3 that cities may criminally punish people for sleeping in public even when no shelter beds exist, reasoning that the ordinances target *conduct* (camping), not *status* (homelessness), and so raise no Eighth Amendment problem. Whatever one's view of the policy, the doctrinal direction is clear: the clause was read *narrowly*, leaving the punishment of unavoidable conduct outside its reach.
+**The cruel-and-unusual clause just narrowed — against the poorest defendants.** In *City of Grants Pass v. Johnson*, 603 U.S. 520 (2024), the Court held 6–3 that cities may criminally punish people for sleeping in public even when no shelter beds exist, reasoning that the ordinances target *conduct* (camping), not *status* (homelessness), and so raise no Eighth Amendment problem. Whatever one's view of the policy, the doctrinal direction is clear: the clause was read *narrowly*, leaving the punishment of unavoidable conduct outside its reach.
 
 **"Excessive bail" still says little to those who can't afford any.** The clause bars *excessive* bail — but has never been read to bar *cash* bail as such, so a system persists in which the same bail amount frees a wealthy defendant and jails a poor one before any conviction. Reform efforts (New Jersey's, notably) have cut pretrial jailing without raising crime, but the constitutional floor remains: the Eighth Amendment limits how high bail may be set, not whether the ability to pay decides who waits in a cell.
 
@@ -59,6 +60,6 @@ The 1791 promise was proportion: no excessive bail, no excessive fines, no cruel
 
 - [U.S. Const. amend. VIII](https://constitution.congress.gov/constitution/amendment-8/) — text of the Eighth Amendment
 - [*Timbs v. Indiana*, 586 U.S. 146 (2019)](https://supreme.justia.com/cases/federal/us/586/17-1091/) — Excessive Fines Clause applied to states
-- [*City of Grants Pass v. Johnson*, 603 U.S. ___ (2024)](https://www.supremecourt.gov/opinions/23pdf/23-175_19m2.pdf) — public-camping bans and the cruel-and-unusual clause
+- [*City of Grants Pass v. Johnson*, 603 U.S. 520 (2024)](https://www.supremecourt.gov/opinions/23pdf/23-175_19m2.pdf) — public-camping bans and the cruel-and-unusual clause
 - [Death Penalty Information Center — the death penalty in 2024](https://deathpenaltyinfo.org/research/analysis/reports/year-end-reports/the-death-penalty-in-2024/supreme-court) — executions and sentences at historic lows
 - Black's Law Dictionary (12th ed. 2024) — definitions: excessive fine; cruel and unusual punishment; bail

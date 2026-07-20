@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 4: A Military Above the Law. This Is the One the Republic Mostly Got Right."
 date: 2026-07-19 10:00:00
 section: Grievance Audit
+grade: 74
 dek: "In 1776 we declared independence over a king who set the military above civilian authority. It is the grievance the United States has answered best — the military obeys elected civilians, and there has never been a coup. But the buffers are thinner than they look. Entry No. 4 in the series."
 ---
 

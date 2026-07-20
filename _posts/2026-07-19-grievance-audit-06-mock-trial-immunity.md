@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 6: A 'Mock Trial' to Shield Killers. Meet Qualified Immunity."
 date: 2026-07-19 12:00:00
 section: Grievance Audit
+grade: 30
 dek: "In 1776 we declared independence partly over a king who shielded his soldiers from real punishment for killing colonists. Today a judge-made doctrine called qualified immunity shields officials from suit unless a court has already ruled on nearly identical facts. Entry No. 6 — and one of the sharpest parallels in the series."
 ---
 

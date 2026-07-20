@@ -21,7 +21,7 @@
     {% if section_posts.size > 0 %}
       {% for post in section_posts %}
       <a class="teaser" href="{{ post.url | relative_url }}">
-        <p class="teaser__kicker">{{ post.section }}</p>
+        <p class="teaser__kicker">{{ post.section }}{% if post.grade %}<span class="teaser__grade {% if post.grade >= 65 %}teaser__grade--high{% elsif post.grade < 45 %}teaser__grade--low{% endif %}">{{ post.grade }}</span>{% endif %}</p>
         <h2 class="teaser__headline">{{ post.title }}</h2>
         <p class="teaser__dek">{{ post.dek }}</p>
       </a>

@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 10: The Tenth Amendment — The Right That Belongs to the States, and to You."
 date: 2026-07-20 10:00:00
 section: Risk of Rights
+grade: 62
 dek: "The Tenth Amendment reserves to the states and the people every power the Constitution didn't hand the federal government. It is the Bill of Rights' structural backstop — a limit on federal reach. Federal power has grown vast enough to test it daily, but unlike most rights in this series, the courts still actively enforce its outer wall. The last entry in The Risk of Rights."
 ---
 

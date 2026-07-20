@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 3: They Warned Against Standing Armies. In 2025, the Words Went Back to Court."
 date: 2026-07-19
 section: Grievance Audit
+grade: 52
 dek: "In 1776 we declared independence over standing armies kept without the legislature's consent. Today the U.S. keeps ~1.3 million troops under arms, hasn't formally declared war since 1942, and spent 2025 in a coast-to-coast court fight over troops in American cities. Entry No. 3 in the series."
 ---
 

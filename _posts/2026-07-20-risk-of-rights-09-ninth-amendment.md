@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 9: The Ninth Amendment — The Founders' Note That the List Isn't Everything."
 date: 2026-07-20 09:00:00
 section: Risk of Rights
+grade: 36
 dek: "The Ninth Amendment says the rights written in the Constitution aren't the only rights you have. It is the Bill of Rights' explicit warning against reading the list as complete — and it is the amendment courts most avoid enforcing on its own. In 2026, the whole category it protects, unenumerated rights, is contracting. No. 9 in The Risk of Rights."
 ---
 

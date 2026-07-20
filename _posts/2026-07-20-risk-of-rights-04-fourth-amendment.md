@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 4: The Fourth Amendment — Written for Constables, Outrun by Computers."
 date: 2026-07-20 04:00:00
 section: Risk of Rights
+grade: 40
 dek: "The Fourth Amendment protects your person, home, papers, and effects from unreasonable government search. It was written against redcoats kicking in doors — and it is being outrun by a surveillance apparatus that never has to knock: license-plate networks, phone-location data, and the doctrine that says what you share with a company, you share with the police. No. 4 in The Risk of Rights."
 ---
 
@@ -49,7 +50,7 @@ Fair in its particulars. But the trend line is the finding: the volume, duration
 
 The 1791 promise was security against unreasonable government intrusion. The 2026 record is a doctrine that has modernized at the margins while a surveillance infrastructure — plate readers, location data, the third-party doctrine — routes around its core, watching continuously without ever triggering the warrant the amendment was built around. The constable still needs probable cause to enter your home. The computer that knows everywhere you drove needs nothing at all.
 
-*Quis custodiet ipsos custodes?* — who watches the watchmen? The Fourth Amendment was the founders' answer. In the age of the always-on camera, the question is open again.
+*Quis custodiet ipsos custodes?* — who watches the watchmen? The Fourth Amendment was the Founders' answer. In the age of the always-on camera, the question is open again.
 
 *Next in The Risk of Rights: the Fifth Amendment.*
 

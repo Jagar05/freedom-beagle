@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 10: 'Judges Dependent on His Will.' In One Court System, They Still Are."
 date: 2026-07-19 16:00:00
 section: Grievance Audit
+grade: 56
 dek: "The Constitution answered this grievance for federal judges with life tenure and protected salaries — one of its cleanest successes. But most Americans who face 'a judge' in a federal proceeding face an executive-branch employee the president can fire. In 2025, about 100 of them were. Entry No. 10."
 ---
 

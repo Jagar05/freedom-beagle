@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 9: A King Who Bypassed the Legislatures. We No Longer Need a King For That."
 date: 2026-07-19 15:00:00
 section: Grievance Audit
+grade: 52
 dek: "Seven of the twenty-seven grievances describe one abuse: a monarch suppressing, dissolving, and bypassing representative legislatures. Nobody dissolves Congress today — that fight is won. But representative self-government is hollowed by subtler means: gerrymandered maps and lawmaking that has drifted from the elected legislature. Entry No. 9, covering the representation cluster."
 ---
 

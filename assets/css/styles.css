@@ -9,6 +9,7 @@
   --stamp: #93291F;
   --rule: #B8AD8A;
   --focus: #2B5F8A;
+  --federal: #2E4A66;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -20,6 +21,7 @@
     --stamp: #D9705F;
     --rule: #6B6248;
     --focus: #7FB2DD;
+    --federal: #7FA5C9;
   }
 }
 :root[data-theme="dark"] {
@@ -31,6 +33,7 @@
   --stamp: #D9705F;
   --rule: #6B6248;
   --focus: #7FB2DD;
+  --federal: #7FA5C9;
 }
 :root[data-theme="light"] {
   --ink: #1B1810;
@@ -41,6 +44,7 @@
   --stamp: #93291F;
   --rule: #B8AD8A;
   --focus: #2B5F8A;
+  --federal: #2E4A66;
 }
 
 * { box-sizing: border-box; }
@@ -367,6 +371,30 @@ img { max-width: 100%; display: block; }
   border-radius: 2px;
 }
 .scorecard__grade--low { background: var(--stamp); }
+.scorecard__grade--high { background: var(--federal); }
+.scorecard__meter--high > span { background: var(--federal); }
+
+/* Grade chip in article teaser lists: red = at risk (<45), ink = mixed (45-64), blue = strong (65+) */
+.teaser__grade {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 30px;
+  height: 22px;
+  padding: 0 5px;
+  margin-left: 10px;
+  vertical-align: middle;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: 'Courier Prime', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0;
+  border-radius: 2px;
+  font-variant-numeric: tabular-nums;
+}
+.teaser__grade--low { background: var(--stamp); }
+.teaser__grade--high { background: var(--federal); }
 .scorecard__head {
   display: flex;
   flex-wrap: wrap;

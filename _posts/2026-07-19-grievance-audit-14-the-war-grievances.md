@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 14: The Grievances That Don't Map, and the Line That Shames the Page."
 date: 2026-07-19 20:00:00
 section: Grievance Audit
+grade: 90
 dek: "The last five grievances describe a king waging open war on his people — and honesty means admitting they have no clean modern parallel. It also means facing one line in the Declaration that is a moral stain. Entry No. 14, the last of the twenty-seven grievances."
 ---
 

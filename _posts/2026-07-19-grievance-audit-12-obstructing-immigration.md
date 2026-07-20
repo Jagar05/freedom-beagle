@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 12: The Founders' Pro-Immigration Grievance — and the 11.6 Million-Case Backlog."
 date: 2026-07-19 18:00:00
 section: Grievance Audit
+grade: 50
 dek: "One grievance is easy to forget because it cuts against the modern grain: the Founders attacked a king for keeping people OUT — obstructing naturalization to stunt the country's growth. Today the naturalization system carries a record 11.6 million pending cases. Entry No. 12, handled with the neutrality the topic demands."
 ---
 

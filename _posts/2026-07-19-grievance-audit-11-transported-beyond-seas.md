@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 11: 'Transported Beyond Seas.' In 2025, to a Prison in El Salvador."
 date: 2026-07-19 17:00:00
 section: Grievance Audit
+grade: 44
 dek: "The colonists condemned a king who shipped them across the ocean for trial, beyond the reach of local courts. In March 2025 the government invoked a 1798 statute to send people to a foreign prison — and argued the courts could no longer reach them there. Entry No. 11."
 ---
 

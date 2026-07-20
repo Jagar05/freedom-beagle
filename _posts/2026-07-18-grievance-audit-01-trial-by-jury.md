@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 1: The King Denied Jury Trials. America Plea-Bargained Hers Away."
 date: 2026-07-18
 section: Grievance Audit
+grade: 32
 dek: "In 1776 we declared independence over, among other things, the denial of jury trials. Today 97% of federal convictions come from guilty pleas, only 2% of defendants go to trial, and $68.8 billion in property was forfeited over two decades — 84% of it with no conviction required. First entry in a series auditing the Declaration's 27 grievances against the modern record."
 ---
 

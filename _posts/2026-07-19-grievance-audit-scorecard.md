@@ -2,6 +2,7 @@
 title: "The Grievance Audit Scorecard: We Graded the Republic Against 1776. It Got a 54."
 date: 2026-07-19 21:00:00
 section: Grievance Audit
+grade: 54
 dek: "Across fourteen entries, The Grievance Audit held the modern federal record against all twenty-seven grievances of the Declaration of Independence. This is the tally — where the record lands, and a transparent 0–100 grade for each, averaged into a single number for the republic as a whole."
 ---
 
@@ -38,7 +39,7 @@ No party's talking points. Just where twenty-seven grievances net out in 2026.
 
 A warning, in the spirit of the whole series: **every other number across these fourteen entries is a measurement** — a docket count, a page tally, a percentage from a court or an agency, each sourced. **These grades are not.** They are the journal's editorial judgment, on a 0–100 scale, of how far the republic has answered each grievance: 100 for one fully resolved, 0 for one fully alive. We publish the rubric so you can argue with the math. Where an entry covers a cluster of grievances, its grade blends them.
 
-Scale: **85+** answered, a founding success kept · **65–84** mostly answered, real fractures · **45–64** mixed and contested · **25–44** rings true today · **under 25** actively violated. A grade in **red** marks a grievance that still rings true.
+Scale: **85+** answered, a founding success kept · **65–84** mostly answered, real fractures · **45–64** mixed and contested · **25–44** rings true today · **under 25** actively violated. A grade in **red** marks a grievance that still rings true; a grade in **blue** marks one the republic answered.
 
 <div class="scorecard" markdown="0">
 
@@ -70,19 +71,19 @@ Scale: **85+** answered, a founding success kept · **65–84** mostly answered,
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade">74</div>
+<div class="scorecard__grade scorecard__grade--high">74</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">No. 4</span><h3 class="scorecard__title">Military Above Civil Power</h3><span class="scorecard__band">Mostly Answered</span></div>
-<div class="scorecard__meter"><span style="width:74%"></span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:74%"></span></div>
 <p class="scorecard__judgment">This is the one the republic mostly got right: civilian control is real, and in nearly 250 years there has never been a coup. The fractures are the caveats — the civilian-Secretary-of-Defense rule waived twice in five years across both parties, a separate justice system for those in uniform, and an offshore military-commission court now two decades old. A genuine success, thinner than it used to be.</p>
 </div>
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade">82</div>
+<div class="scorecard__grade scorecard__grade--high">82</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">No. 5</span><h3 class="scorecard__title">Quartering</h3><span class="scorecard__band">Mostly Answered</span></div>
-<div class="scorecard__meter"><span style="width:82%"></span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:82%"></span></div>
 <p class="scorecard__judgment">No soldiers are billeted in American homes; the Third Amendment answered its grievance so completely it fell asleep, with barely a single case in 235 years. The only deduction is that the deeper principle — the home shut against the state — migrated to the Fourth Amendment, where tens of thousands of untracked no-knock raids a year now test it. The specific promise is kept; the spirit is under new management.</p>
 </div>
 </div>
@@ -160,10 +161,10 @@ Scale: **85+** answered, a founding success kept · **65–84** mostly answered,
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade">90</div>
+<div class="scorecard__grade scorecard__grade--high">90</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">No. 14</span><h3 class="scorecard__title">The War Grievances</h3><span class="scorecard__band">Answered</span></div>
-<div class="scorecard__meter"><span style="width:90%"></span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:90%"></span></div>
 <p class="scorecard__judgment">The clearest pass on the card. The last five grievances describe a king burning his own towns and hiring foreign armies against his people — and the modern United States simply does not do this to its citizens. The one honest echo, the military's reliance on private contractors, is deployed in wars abroad, not at home. A government that does not wage war on its own people has kept the promise that matters most.</p>
 </div>
 </div>

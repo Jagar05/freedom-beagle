@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 5: 'Quartering Troops.' The Amendment That Won by Becoming Unnecessary — and the Fight That Moved Down the Hall."
 date: 2026-07-19 11:00:00
 section: Grievance Audit
+grade: 82
 dek: "In 1776 we declared independence partly over soldiers billeted in private homes. The Third Amendment answered it so completely it is now the least-litigated line in the Bill of Rights. But the principle underneath — the home shut against the government — moved to the Fourth Amendment, where the record is far messier. Entry No. 5."
 ---
 

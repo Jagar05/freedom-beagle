@@ -2,6 +2,7 @@
 title: "The Risk of Rights Scorecard: We Graded the Bill of Rights Against Itself. It Got a 56."
 date: 2026-07-20 11:00:00
 section: Risk of Rights
+grade: 56
 dek: "Across ten entries, The Risk of Rights held each amendment of the Bill of Rights against the 2026 record — 1791's promise versus today's practice. This is the tally: a transparent 0–100 grade for every amendment, averaged into a single number for the Bill of Rights as a whole."
 ---
 
@@ -17,33 +18,33 @@ The through-line is the one the Grievance Audit found too: the promises against 
 
 The same warning as before: **every other number in this series is a measurement** — a case citation, a caseload figure, a docket count, each sourced. **These grades are not.** They are the journal's editorial judgment, on a 0–100 scale, of how much of each amendment's promise survives in practice: 100 for a right fully honored, 0 for one gutted. We publish the rubric so you can argue with the math.
 
-Scale: **85+** kept, a promise honored · **65–84** mostly protected, real fractures · **45–64** mixed and contested · **25–44** at real risk · **under 25** gutted. A grade in **red** marks a right at real risk.
+Scale: **85+** kept, a promise honored · **65–84** mostly protected, real fractures · **45–64** mixed and contested · **25–44** at real risk · **under 25** gutted. A grade in **red** marks a right at real risk; a grade in **blue** marks one holding strong.
 
 <div class="scorecard" markdown="0">
 
 <div class="scorecard__row">
-<div class="scorecard__grade">70</div>
+<div class="scorecard__grade scorecard__grade--high">70</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">Amend. I</span><h3 class="scorecard__title">Speech, Press, Religion</h3><span class="scorecard__band">Mostly Protected</span></div>
-<div class="scorecard__meter"><span style="width:70%"></span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:70%"></span></div>
 <p class="scorecard__judgment">In pure doctrine the strongest free-speech guarantee on Earth, and getting stronger — the Court struck compelled speech and shielded editorial judgment in 2023–24. The risk is structural, not doctrinal: speech, the press, and the public square have migrated to private platforms the amendment doesn't reach, while officials test how hard they can lean on the new landlords — the "jawboning" question <em>Murthy</em> left open. A powerful right guarding the wrong border.</p>
 </div>
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade">80</div>
+<div class="scorecard__grade scorecard__grade--high">80</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">Amend. II</span><h3 class="scorecard__title">Keep and Bear Arms</h3><span class="scorecard__band">Ascendant</span></div>
-<div class="scorecard__meter"><span style="width:80%"></span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:80%"></span></div>
 <p class="scorecard__judgment">The one right in the Bill of Rights that has expanded rather than eroded. From a contested collective theory to an individually held right the Court now guards with a demanding history-and-tradition test (<em>Heller</em>, <em>McDonald</em>, <em>Bruen</em>), trimmed only at the edge (<em>Rahimi</em>). Whatever one thinks of the trend — and the policy fight is real — as a <em>right</em> it is stronger than it has ever been.</p>
 </div>
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade">92</div>
+<div class="scorecard__grade scorecard__grade--high">92</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">Amend. III</span><h3 class="scorecard__title">No Quartering of Troops</h3><span class="scorecard__band">Kept</span></div>
-<div class="scorecard__meter"><span style="width:92%"></span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:92%"></span></div>
 <p class="scorecard__judgment">The cleanest kept promise in the Bill of Rights. No soldier is quartered in an American home; there is no litigation because there is no violation — one significant case in 235 years. A guarantee so total it became invisible, the rare right that simply won its war and retired.</p>
 </div>
 </div>

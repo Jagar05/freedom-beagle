@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 7: 'Taxes Without Our Consent.' Four Million Americans Still Pay Them."
 date: 2026-07-19 13:00:00
 section: Grievance Audit
+grade: 44
 dek: "'No taxation without representation' was the rallying cry of the Revolution. Today roughly four million U.S. citizens — in Washington, D.C., and the territories — pay federal taxes with no voting representation in Congress. The grievance is not a metaphor here. It is a mailing address. Entry No. 7."
 ---
 

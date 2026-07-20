@@ -2,6 +2,7 @@
 title: "Grievance Audit No. 8: 'Cutting Off Our Trade.' The Taxing Power Drifted to the President — Until 2026."
 date: 2026-07-19 14:00:00
 section: Grievance Audit
+grade: 54
 dek: "The Constitution gave the power to tax imports and regulate foreign trade to Congress — the people's purse in the people's house. Over decades it drifted to the presidency by delegation, until a sweeping 2025 tariff program and a February 2026 Supreme Court ruling that pulled part of it back. Entry No. 8."
 ---
 

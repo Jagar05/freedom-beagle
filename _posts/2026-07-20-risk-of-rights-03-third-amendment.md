@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 3: The Third Amendment — The Right You Never Think About, Because It Won."
 date: 2026-07-20 03:00:00
 section: Risk of Rights
+grade: 92
 dek: "No soldier has been quartered in an American home against the owner's will in living memory. The Third Amendment is the quietest line in the Bill of Rights precisely because it succeeded so completely it became invisible. A short entry on the rare right that simply works — with one modern asterisk. No. 3 in The Risk of Rights."
 ---
 
