@@ -2,12 +2,12 @@
 
 ## The newsroom (easiest way — use this)
 
-**Where:** https://jagar05.github.io/freedom-beagle/admin/
+**Where:** https://freedombeagle.github.io/admin/
 
 **One-time setup (about 2 minutes):**
 1. Go to https://github.com/settings/personal-access-tokens/new (sign in as Jagar05 if asked)
 2. Name it something like `freedom-beagle-newsroom`, set **Expiration** to 1 year
-3. Under **Repository access**, choose **Only select repositories** → pick `freedom-beagle`
+3. Under **Repository access**, choose **Only select repositories** → pick `freedombeagle.github.io`
 4. Under **Permissions → Repository permissions**, set **Contents** to **Read and write**
 5. Click **Generate token** and copy it (long string starting with `github_pat_`)
 6. Open the newsroom link above, choose the **token** sign-in option, and paste it in
@@ -34,7 +34,7 @@ The site already styles embedded videos to fit the page.
 
 ## Backup option: editing directly on GitHub
 
-If the newsroom is ever down: go to https://github.com/Jagar05/freedom-beagle/tree/main/_posts — each article is one file. Click a file → pencil icon → edit → **Commit changes**. To add a new article, click **Add file → Create new file**, name it `YYYY-MM-DD-short-title.md`, and copy the top section (between the `---` lines) from an existing article as a starting pattern.
+If the newsroom is ever down: go to https://github.com/freedombeagle/freedombeagle.github.io/tree/main/_posts — each article is one file. Click a file → pencil icon → edit → **Commit changes**. To add a new article, click **Add file → Create new file**, name it `YYYY-MM-DD-short-title.md`, and copy the top section (between the `---` lines) from an existing article as a starting pattern.
 
 ## Who can edit
 

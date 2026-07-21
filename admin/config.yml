@@ -1,14 +1,14 @@
 backend:
   name: github
-  repo: Jagar05/freedom-beagle
+  repo: freedombeagle/freedombeagle.github.io
   branch: main
 
-site_url: https://jagar05.github.io/freedom-beagle
-display_url: https://jagar05.github.io/freedom-beagle
-logo_url: https://jagar05.github.io/freedom-beagle/assets/img/freedom-beagle-logo.png
+site_url: https://freedombeagle.github.io
+display_url: https://freedombeagle.github.io
+logo_url: https://freedombeagle.github.io/assets/img/freedom-beagle-logo.png
 
 media_folder: assets/img/uploads
-public_folder: /freedom-beagle/assets/img/uploads
+public_folder: /assets/img/uploads
 
 collections:
   - name: articles
