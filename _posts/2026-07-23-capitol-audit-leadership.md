@@ -2,6 +2,7 @@
 title: "The Capitol Audit: We Graded Congress's Leadership. It Got a 63."
 date: 2026-07-23 10:00:00
 section: On the Scent
+series: capitol-audit
 grade: 63
 dek: "Nine people run the floor of Congress. Same yardstick for all of them, no matter the party: how often they show up, how many bills they actually get signed into law, who funds them, and what — if anything — sits on their record. This is the first entry in a new series grading individual members of Congress, starting at the top."
 ---
