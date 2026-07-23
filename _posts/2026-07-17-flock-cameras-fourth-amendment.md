@@ -2,6 +2,7 @@
 title: The Cameras Don't Need a Warrant. That's the Problem.
 date: 2026-07-17
 section: On the Scent
+series: flock-cameras
 dek: There are currently 116,943 license plate readers bolted to poles across the United States (that we know of), and counting — and the courts still can't agree on whether that counts as a search.
 ---
 

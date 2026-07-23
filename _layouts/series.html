@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{{ page.title }} — {{ site.title }}</title>
+<meta name="description" content="{{ page.description }}">
+{% include head.html %}
+</head>
+<body>
+
+{% include theme-toggle.html %}
+
+{% include site-header.html %}
+
+<div class="wrap">
+  <div class="section-page">
+    <h1 class="section-page__title">{{ page.title }}</h1>
+    <p class="section-page__desc">{{ page.description }}</p>
+
+    {% assign completed_series = site.data.series | where: "status", "complete" %}
+
+    {% if completed_series.size > 0 %}
+      <label class="series-jump" for="series-jump-select">
+        <span class="series-jump__label">Jump to a series</span>
+        <select id="series-jump-select" class="series-jump__select">
+          <option value="">Choose a completed investigation&hellip;</option>
+          {% for s in completed_series %}
+          <option value="{{ s.slug }}">{{ s.name }}</option>
+          {% endfor %}
+        </select>
+      </label>
+
+      {% for s in completed_series %}
+      {% assign series_posts = site.posts | where: "series", s.slug | sort: "date" %}
+      <section id="{{ s.slug }}" class="series-block">
+        <h2 class="series-block__title">{{ s.name }}</h2>
+        {% if s.description %}<p class="series-block__desc">{{ s.description }}</p>{% endif %}
+        <p class="series-block__count">{{ series_posts.size }} article{% if series_posts.size != 1 %}s{% endif %} &middot; complete</p>
+        {% for post in series_posts %}
+        <a class="teaser" href="{{ post.url | relative_url }}">
+          <p class="teaser__kicker">{{ post.section }}{% if post.grade %}<span class="teaser__grade {% if post.grade >= 65 %}teaser__grade--high{% elsif post.grade < 45 %}teaser__grade--low{% endif %}">{{ post.grade }}</span>{% endif %}</p>
+          <h3 class="teaser__headline">{{ post.title }}</h3>
+          <p class="teaser__dek">{{ post.dek }}</p>
+        </a>
+        {% endfor %}
+      </section>
+      {% endfor %}
+    {% else %}
+      <span class="section-page__soon">No completed series yet — finished investigations will be archived here.</span>
+    {% endif %}
+  </div>
+
+  <footer class="site-footer">
+    <span>&copy; 2026 Freedom Beagle. No masters. No leash.</span>
+    <span><a href="{{ '/about.html' | relative_url }}">About &amp; Standards</a> &middot; <a href="{{ '/' | relative_url }}">Home</a></span>
+  </footer>
+</div>
+
+<script>
+  var jumpSelect = document.getElementById('series-jump-select');
+  if (jumpSelect) {
+    jumpSelect.addEventListener('change', function () {
+      if (!this.value) return;
+      var target = document.getElementById(this.value);
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  }
+</script>
+<script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
+</body>
+</html>

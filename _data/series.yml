@@ -1,0 +1,18 @@
+# Series registry for "On the Scent" investigations.
+#
+# How this works with the editorial process:
+#   1. An "On the Scent" article is created and published as normal — give it
+#      a `series: <slug>` field in its frontmatter matching a slug below.
+#   2. While a series is "active", its articles keep showing up in the normal
+#      On the Scent feed, same as any other piece.
+#   3. When the investigation is finished, flip that series's `status` below
+#      to "complete". Its articles then disappear from the On the Scent feed
+#      and instead appear grouped together on the Series page.
+#
+# A post with no `series` field is unaffected either way — it's a standalone
+# On the Scent piece and always just lives in the normal feed.
+
+- name: "The Cameras Don't Need a Warrant"
+  slug: flock-cameras
+  status: active
+  description: "License-plate-reader networks, the Fourth Amendment, and the court cases testing where the line is."

@@ -17,9 +17,29 @@
     <p class="section-page__desc">{{ page.description }}</p>
 
     {% assign section_posts = site.posts | where: "section", page.section %}
-    {% if page.sort == "ascending" %}{% assign section_posts = section_posts | sort: "date" %}{% endif %}
-    {% if section_posts.size > 0 %}
-      {% for post in section_posts %}
+
+    {% comment %}
+      On the Scent only: once a series is marked "complete" in
+      _data/series.yml, its posts move off this feed and onto the Series
+      page instead. Standalone posts (no series) and posts in a still-active
+      series are unaffected.
+    {% endcomment %}
+    {% if page.section == "On the Scent" %}
+      {% assign visible_posts = section_posts | where_exp: "post", "post.series == nil" %}
+      {% for s in site.data.series %}
+        {% if s.status != "complete" %}
+          {% assign series_batch = section_posts | where: "series", s.slug %}
+          {% assign visible_posts = visible_posts | concat: series_batch %}
+        {% endif %}
+      {% endfor %}
+      {% assign visible_posts = visible_posts | sort: "date" | reverse %}
+    {% else %}
+      {% assign visible_posts = section_posts %}
+    {% endif %}
+    {% if page.sort == "ascending" %}{% assign visible_posts = visible_posts | sort: "date" %}{% endif %}
+
+    {% if visible_posts.size > 0 %}
+      {% for post in visible_posts %}
       <a class="teaser" href="{{ post.url | relative_url }}">
         <p class="teaser__kicker">{{ post.section }}{% if post.grade %}<span class="teaser__grade {% if post.grade >= 65 %}teaser__grade--high{% elsif post.grade < 45 %}teaser__grade--low{% endif %}">{{ post.grade }}</span>{% endif %}</p>
         <h2 class="teaser__headline">{{ post.title }}</h2>
@@ -28,6 +48,14 @@
       {% endfor %}
     {% else %}
       <span class="section-page__soon">First piece coming soon</span>
+    {% endif %}
+
+    {% if page.section == "On the Scent" %}
+      {% assign completed_count = 0 %}
+      {% for s in site.data.series %}{% if s.status == "complete" %}{% assign completed_count = completed_count | plus: 1 %}{% endif %}{% endfor %}
+      {% if completed_count > 0 %}
+        <p class="section-page__archive-note">Looking for a finished investigation? Completed series have moved to the <a href="{{ '/series.html' | relative_url }}">Series</a> archive.</p>
+      {% endif %}
     {% endif %}
   </div>
 

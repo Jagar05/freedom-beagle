@@ -47,6 +47,16 @@ collections:
         label: Teaser (dek)
         widget: text
         hint: "One or two sentences shown under the headline on the homepage and section pages."
+      - name: series
+        label: Series (On the Scent only)
+        widget: string
+        required: false
+        hint: "Only for multi-part On the Scent investigations. Enter the series slug exactly as it appears in Site Settings > Series (e.g. flock-cameras). Leave blank for standalone pieces."
+      - name: grade
+        label: Score (Grievance Audit / Risk of Rights only)
+        widget: number
+        required: false
+        hint: "0-100 grade shown as a badge next to the headline. Leave blank for non-scorecard pieces."
       - name: body
         label: Article
         widget: markdown

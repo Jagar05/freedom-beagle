@@ -523,6 +523,98 @@ img { max-width: 100%; display: block; }
   display: inline-block;
 }
 
+/* Header search icon */
+.site-header__search {
+  margin-left: 16px;
+  font-size: 15px;
+  text-decoration: none;
+  color: var(--ink-soft);
+  flex-shrink: 0;
+}
+.site-header__search:hover { color: var(--stamp); }
+
+/* Search page */
+.search-box { margin-bottom: 32px; }
+.search-box__input {
+  width: 100%;
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 19px;
+  background: var(--panel);
+  color: var(--ink);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 14px 16px;
+}
+.search-box__input:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 1px;
+}
+.search-box__status {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px; letter-spacing: .06em; text-transform: uppercase;
+  color: var(--ink-soft);
+  margin: 10px 0 0;
+}
+
+/* On the Scent -> Series archive nudge */
+.section-page__archive-note {
+  font-family: 'Courier Prime', monospace;
+  font-size: 12px; letter-spacing: .04em;
+  color: var(--ink-soft);
+  margin-top: 32px;
+  padding-top: 20px;
+  border-top: 1px dashed var(--rule);
+}
+.section-page__archive-note a { color: var(--focus); }
+
+/* Series archive page */
+.series-jump {
+  display: block;
+  margin-bottom: 40px;
+}
+.series-jump__label {
+  display: block;
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 8px;
+}
+.series-jump__select {
+  width: 100%;
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 16px;
+  background: var(--panel);
+  color: var(--ink);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 12px 14px;
+}
+.series-block {
+  margin: 48px 0;
+  padding-top: 32px;
+  border-top: 3px solid var(--ink);
+  scroll-margin-top: 84px;
+}
+.series-block__title {
+  font-family: 'Libre Caslon Display', Georgia, serif;
+  font-weight: 400;
+  font-size: clamp(24px, 4vw, 32px);
+  margin: 0 0 8px;
+}
+.series-block__desc {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 17px; line-height: 1.6;
+  color: var(--ink-soft);
+  max-width: 60ch;
+  margin: 0 0 6px;
+}
+.series-block__count {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--stamp);
+  margin: 0 0 18px;
+}
+
 /* Footer */
 .site-footer {
   border-top: 1px solid var(--rule);
