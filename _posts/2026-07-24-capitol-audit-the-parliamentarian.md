@@ -113,98 +113,100 @@ The office is one thing. The nine people who have actually run it over the past 
 
 **Ruling record (where a documented public record exists, did rulings cut against both parties over time, or consistently favor one side?)** Most tenures generate no major public controversy at all — under this rubric, that's scored as a neutral-to-positive sign that the office worked as designed, not as a research gap. A thin public record is disclosed as exactly that, not treated as a mark against the person.
 
+**Constitutional fidelity in office (did they stay inside the office's proper role — advisory, procedural, never binding — or is there documented evidence they tried to act as if a ruling were final?)** This is a different question from independent tenure above. Independent tenure asks whether the *system* respected the office's independence. This asks whether the *officeholder* respected the limits of the job while doing it. A parliamentarian who gets fired for a rigorously procedural ruling has still stayed inside the Constitution's lines — the failure in that case belongs to whoever fired them. Likewise, a ruling that gets formally overruled by a floor vote is the check working exactly as designed, not a mark against the parliamentarian who made the call. What would count against this score is evidence someone tried to treat their own ruling as beyond challenge, or ruled on grounds untethered from precedent — no sourced instance of either was found for anyone on this list.
+
 <div class="scorecard" markdown="0">
 
 <div class="scorecard__row">
-<div class="scorecard__grade scorecard__grade--high">70</div>
+<div class="scorecard__grade scorecard__grade--high">72</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">1</span><h3 class="scorecard__title">Murray Zweben</h3><span class="scorecard__band">Senate Parliamentarian, 1974–1981</span></div>
-<div class="scorecard__meter scorecard__meter--high"><span style="width:70%"></span></div>
-<p class="scorecard__judgment">Served through Mike Mansfield's Senate majority and left in 1981 when Republicans took control — an orderly, non-forced transition, later honored with the title "Parliamentarian Emeritus" by Senate resolution. No documented controversy or bias accusation on record. Untested by a cross-partisan retention, since his tenure ended exactly at the change of control rather than surviving it.</p>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:72%"></span></div>
+<p class="scorecard__judgment">Served through Mike Mansfield's Senate majority and left in 1981 when Republicans took control — an orderly, non-forced transition, later honored with the title "Parliamentarian Emeritus" by Senate resolution. No documented controversy or bias accusation on record, and nothing found suggesting he ever treated a ruling as final rather than advisory. Untested by a cross-partisan retention, since his tenure ended exactly at the change of control rather than surviving it.</p>
 </div>
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade">55</div>
+<div class="scorecard__grade">60</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">2</span><h3 class="scorecard__title">Robert Dove</h3><span class="scorecard__band">Senate Parliamentarian, 1981–87 &amp; 1995–2001</span></div>
-<div class="scorecard__meter"><span style="width:55%"></span></div>
-<p class="scorecard__judgment">Two non-consecutive stints, both ending in dismissal at a change of Senate control — the first in 1987 by Majority Leader Robert Byrd, unremarkable at the time since swapping parliamentarians along with party control was still a live norm in that era. The second ended in May 2001, when Majority Leader Trent Lott fired him specifically over rulings against Republican-favored provisions, including capping reconciliation bills at one per year and rejecting a GOP-backed disaster-relief allocation. That firing is the single clearest case in 50 years of a parliamentarian's independence actually failing under pressure, and it is the main reason his grade sits below the field.</p>
-</div>
-</div>
-
-<div class="scorecard__row">
-<div class="scorecard__grade scorecard__grade--high">84</div>
-<div class="scorecard__body">
-<div class="scorecard__head"><span class="scorecard__num">3</span><h3 class="scorecard__title">Alan Frumin</h3><span class="scorecard__band">Senate Parliamentarian, 1987–95 &amp; 2001–2012</span></div>
-<div class="scorecard__meter scorecard__meter--high"><span style="width:84%"></span></div>
-<p class="scorecard__judgment">Promoted twice, including immediately after Dove's 2001 firing, and the only person to serve as Senate Parliamentarian under both parties' majorities in the same stint — retained through Senate control changes in 2001, 2003, and 2007 alike. Presided over the high-profile, heavily scrutinized 2010 reconciliation rulings on the Affordable Care Act's companion bill; no sourced accusation of partisan bias was found tied to those rulings, only controversy over the reconciliation process itself. Retired voluntarily in 2012.</p>
+<div class="scorecard__meter"><span style="width:60%"></span></div>
+<p class="scorecard__judgment">Two non-consecutive stints, both ending in dismissal at a change of Senate control — the first in 1987 by Majority Leader Robert Byrd, unremarkable at the time since swapping parliamentarians along with party control was still a live norm in that era. The second ended in May 2001, when Majority Leader Trent Lott fired him specifically over rulings against Republican-favored provisions, including capping reconciliation bills at one per year and rejecting a GOP-backed disaster-relief allocation. That firing is the single clearest case in 50 years of a parliamentarian's independence actually failing under pressure, and it drags his tenure score down. But on the separate question of whether he stayed inside the office's proper role while serving: the rulings that got him fired were textbook Byrd Rule analysis — testing whether a provision's budgetary effect was merely incidental to its policy purpose, the same standard every parliamentarian since has applied. He was fired for ruling correctly, not for overstepping, which is why his overall grade sits above where the firing alone would put it.</p>
 </div>
 </div>
 
 <div class="scorecard__row">
 <div class="scorecard__grade scorecard__grade--high">85</div>
 <div class="scorecard__body">
-<div class="scorecard__head"><span class="scorecard__num">4</span><h3 class="scorecard__title">Elizabeth MacDonough</h3><span class="scorecard__band">Senate Parliamentarian, 2012–present</span></div>
+<div class="scorecard__head"><span class="scorecard__num">3</span><h3 class="scorecard__title">Alan Frumin</h3><span class="scorecard__band">Senate Parliamentarian, 1987–95 &amp; 2001–2012</span></div>
 <div class="scorecard__meter scorecard__meter--high"><span style="width:85%"></span></div>
-<p class="scorecard__judgment">The richest, most tested record of anyone on this list, and the only current officeholder facing an active removal campaign as of publication. Rulings have cut against both parties in succession: against a 2015 ACA-repeal provision, against the 2017 Johnson Amendment repeal, against the 2021 minimum wage and immigration provisions — but also for Republicans on 2017 ANWR drilling language and for Democrats on a 2021 ruling expanding reconciliation's per-year use. Retained across four majority leaders of both parties (Reid, McConnell, Schumer, Thune) and publicly defended by her Republican-appointed predecessor, Alan Frumin, during the 2026 pressure campaign against her. Sen. Patrick Leahy (D) called her "the best"; Sen. John Cornyn (R) said she "calls them straight down the middle" — symmetric praise from opposing parties. As of this writing, she has not been removed.</p>
+<p class="scorecard__judgment">Promoted twice, including immediately after Dove's 2001 firing, and the only person to serve as Senate Parliamentarian under both parties' majorities in the same stint — retained through Senate control changes in 2001, 2003, and 2007 alike. Presided over the high-profile, heavily scrutinized 2010 reconciliation rulings on the Affordable Care Act's companion bill; no sourced accusation of partisan bias was found tied to those rulings, only controversy over the reconciliation process itself, and no evidence he ever asserted a ruling as beyond challenge rather than advisory. Retired voluntarily in 2012.</p>
 </div>
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade scorecard__grade--high">68</div>
+<div class="scorecard__grade scorecard__grade--high">87</div>
 <div class="scorecard__body">
-<div class="scorecard__head"><span class="scorecard__num">5</span><h3 class="scorecard__title">William Holmes Brown</h3><span class="scorecard__band">House Parliamentarian, 1974–1994</span></div>
-<div class="scorecard__meter scorecard__meter--high"><span style="width:68%"></span></div>
-<p class="scorecard__judgment">Twenty years in the post under four consecutive Democratic Speakers — Albert, O'Neill, Wright, and Foley. No documented controversy or bias accusation on record, but the tenure was never tested by a change of House party control, so there's no cross-partisan retention data point either way.</p>
+<div class="scorecard__head"><span class="scorecard__num">4</span><h3 class="scorecard__title">Elizabeth MacDonough</h3><span class="scorecard__band">Senate Parliamentarian, 2012–present</span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:87%"></span></div>
+<p class="scorecard__judgment">The richest, most tested record of anyone on this list, and the only current officeholder facing an active removal campaign as of publication. Rulings have cut against both parties in succession: against a 2015 ACA-repeal provision, against the 2017 Johnson Amendment repeal, against the 2021 minimum wage and immigration provisions — but also for Republicans on 2017 ANWR drilling language and for Democrats on a 2021 ruling expanding reconciliation's per-year use. That symmetry is itself the strongest evidence on this list of consistent, precedent-bound procedural fidelity rather than result-driven ruling. Retained across four majority leaders of both parties (Reid, McConnell, Schumer, Thune) and publicly defended by her Republican-appointed predecessor, Alan Frumin, during the 2026 pressure campaign against her. Sen. Patrick Leahy (D) called her "the best"; Sen. John Cornyn (R) said she "calls them straight down the middle" — symmetric praise from opposing parties. As of this writing, she has not been removed.</p>
 </div>
 </div>
 
 <div class="scorecard__row">
 <div class="scorecard__grade scorecard__grade--high">70</div>
 <div class="scorecard__body">
-<div class="scorecard__head"><span class="scorecard__num">6</span><h3 class="scorecard__title">Charlie Johnson</h3><span class="scorecard__band">House Parliamentarian, 1994–2004</span></div>
+<div class="scorecard__head"><span class="scorecard__num">5</span><h3 class="scorecard__title">William Holmes Brown</h3><span class="scorecard__band">House Parliamentarian, 1974–1994</span></div>
 <div class="scorecard__meter scorecard__meter--high"><span style="width:70%"></span></div>
-<p class="scorecard__judgment">Took the post as Newt Gingrich became Speaker in the 1994 Republican wave and served a full decade, retiring in 2004 to formal honors from House leadership. No documented controversy on record. Like Brown, his tenure sat entirely within one party's House majority, so it offers no cross-partisan retention test.</p>
+<p class="scorecard__judgment">Twenty years in the post under four consecutive Democratic Speakers — Albert, O'Neill, Wright, and Foley. No documented controversy or bias accusation on record, and no sourced instance of overstepping the office's advisory role, but the tenure was never tested by a change of House party control, so there's no cross-partisan retention data point either way.</p>
 </div>
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade scorecard__grade--high">78</div>
+<div class="scorecard__grade scorecard__grade--high">71</div>
 <div class="scorecard__body">
-<div class="scorecard__head"><span class="scorecard__num">7</span><h3 class="scorecard__title">John Sullivan</h3><span class="scorecard__band">House Parliamentarian, 2004–2012</span></div>
-<div class="scorecard__meter scorecard__meter--high"><span style="width:78%"></span></div>
-<p class="scorecard__judgment">Appointed under Speaker Dennis Hastert (R) and kept in place through the House flipping to Speaker Pelosi (D) in 2007 and back to Speaker Boehner (R) in 2011 — a genuine cross-partisan retention spanning two changes of control. Retired in 2012 after 25 years total in the office. No documented controversy on record.</p>
+<div class="scorecard__head"><span class="scorecard__num">6</span><h3 class="scorecard__title">Charlie Johnson</h3><span class="scorecard__band">House Parliamentarian, 1994–2004</span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:71%"></span></div>
+<p class="scorecard__judgment">Took the post as Newt Gingrich became Speaker in the 1994 Republican wave and served a full decade, retiring in 2004 to formal honors from House leadership. No documented controversy on record and no sourced instance of exceeding the office's advisory role. Like Brown, his tenure sat entirely within one party's House majority, so it offers no cross-partisan retention test.</p>
 </div>
 </div>
 
 <div class="scorecard__row">
 <div class="scorecard__grade scorecard__grade--high">80</div>
 <div class="scorecard__body">
-<div class="scorecard__head"><span class="scorecard__num">8</span><h3 class="scorecard__title">Thomas Wickham Jr.</h3><span class="scorecard__band">House Parliamentarian, 2012–2020</span></div>
+<div class="scorecard__head"><span class="scorecard__num">7</span><h3 class="scorecard__title">John Sullivan</h3><span class="scorecard__band">House Parliamentarian, 2004–2012</span></div>
 <div class="scorecard__meter scorecard__meter--high"><span style="width:80%"></span></div>
-<p class="scorecard__judgment">Appointed by Speaker Boehner (R) and retained through Speaker Pelosi's 2019 Democratic majority — the same majority whose Speaker he then ruled against: in 2019, Wickham found Pelosi's floor remarks calling President Trump's tweets "racist" out of order, and the House (led by her own party) voted to overrule him. A rare, well-documented case of a House Parliamentarian's ruling being formally overturned, and notably one where the ruling cut against the party of the leader who had promoted him. Publicly described stepping down in 2020 as voluntary "term-limiting" himself after 25 years in the office, matching his predecessor's tenure length.</p>
+<p class="scorecard__judgment">Appointed under Speaker Dennis Hastert (R) and kept in place through the House flipping to Speaker Pelosi (D) in 2007 and back to Speaker Boehner (R) in 2011 — a genuine cross-partisan retention spanning two changes of control, and about as strong an indirect signal of procedural fidelity as exists in this dataset: neither party trusted him less after watching him work under the other. Retired in 2012 after 25 years total in the office. No documented controversy on record.</p>
 </div>
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade scorecard__grade--high">66</div>
+<div class="scorecard__grade scorecard__grade--high">83</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">8</span><h3 class="scorecard__title">Thomas Wickham Jr.</h3><span class="scorecard__band">House Parliamentarian, 2012–2020</span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:83%"></span></div>
+<p class="scorecard__judgment">Appointed by Speaker Boehner (R) and retained through Speaker Pelosi's 2019 Democratic majority — the same majority whose Speaker he then ruled against: in 2019, Wickham found Pelosi's floor remarks calling President Trump's tweets "racist" out of order, and the House (led by her own party) voted to overrule him. That sequence is this dataset's clearest real-world test of constitutional fidelity, and he passes it on both counts: he ruled against his own promoting party's leader rather than defer to her, and he accepted the floor's overruling vote as final rather than treating his own ruling as binding. Publicly described stepping down in 2020 as voluntary "term-limiting" himself after 25 years in the office, matching his predecessor's tenure length.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade scorecard__grade--high">68</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">9</span><h3 class="scorecard__title">Jason Smith</h3><span class="scorecard__band">House Parliamentarian, 2020–present</span></div>
-<div class="scorecard__meter scorecard__meter--high"><span style="width:66%"></span></div>
-<p class="scorecard__judgment">Appointed by Speaker Pelosi (D) and retained through the switch to Speaker McCarthy and then Speaker Johnson (both R) — a genuine cross-partisan retention data point. Because the House Parliamentarian doesn't administer the Byrd Rule, the office's rulings draw far less press coverage than its Senate counterpart, and no sourced controversy or ruling dispute involving him turned up in this reporting; that thinner public record is disclosed here rather than treated as either a mark for or against him. Not to be confused with Rep. Jason Smith (R-MO), chair of the House Ways and Means Committee — a different person entirely.</p>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:68%"></span></div>
+<p class="scorecard__judgment">Appointed by Speaker Pelosi (D) and retained through the switch to Speaker McCarthy and then Speaker Johnson (both R) — a genuine cross-partisan retention data point. Because the House Parliamentarian doesn't administer the Byrd Rule, the office's rulings draw far less press coverage than its Senate counterpart, and no sourced controversy, ruling dispute, or claim of overstepping his role involving him turned up in this reporting; that thinner public record is disclosed here rather than treated as either a mark for or against him. Not to be confused with Rep. Jason Smith (R-MO), chair of the House Ways and Means Committee — a different person entirely.</p>
 </div>
 </div>
 
 <div class="scorecard__final">
-<div class="scorecard__final-grade">73<span class="scorecard__final-out"> / 100</span></div>
-<div class="scorecard__final-label">Average track record across the last nine officeholders</div>
+<div class="scorecard__final-grade">75<span class="scorecard__final-out"> / 100</span></div>
+<div class="scorecard__final-label">Average across the last nine officeholders, independence + retention + ruling record + constitutional fidelity</div>
 <div class="scorecard__final-rule"></div>
 </div>
 
 </div>
 
-This is a different number from the 58 at the top of this piece, deliberately. The 58 grades the office's *design* — how it's created, filled, and fired — against the Constitution. The 73 grades the *people* who have actually held it against a track record of independence and evenhandedness. The design leaves the door wide open for the kind of failure that happened in 2001. The individuals who've walked through that door have, with that one clear exception, mostly not taken it.
+This is a different number from the 58 at the top of this piece, deliberately. The 58 grades the office's *design* — how it's created, filled, and fired — against the Constitution. The 75 grades the *people* who have actually held it, across four dimensions: whether they left on their own terms, whether the other party trusted them enough to keep them, what their documented ruling record shows, and whether they stayed inside the office's advisory role while doing the job. Adding that fourth dimension moved the average up from where independence and retention alone would have put it — because the record shows something specific: the people on this list who got in the most trouble, Dove and Wickham, got in trouble precisely *because* they ruled correctly and let the chip fall against their own side or their own boss. The design leaves the door wide open for the kind of failure that happened in 2001. The individuals who've walked through that door have, almost without exception, used it to rule straight rather than to protect themselves.
 
 ## The last word
 
