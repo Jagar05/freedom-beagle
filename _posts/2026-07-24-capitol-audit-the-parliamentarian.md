@@ -136,10 +136,10 @@ The office is one thing. The nine people who have actually run it over the past 
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade">66</div>
+<div class="scorecard__grade scorecard__grade--high">66</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">9</span><h3 class="scorecard__title">Jason Smith</h3><span class="scorecard__band">House Parliamentarian, 2020–present</span></div>
-<div class="scorecard__meter"><span style="width:66%"></span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:66%"></span></div>
 <p class="scorecard__judgment">Appointed by Speaker Pelosi (D) and retained through the switch to Speaker McCarthy and then Speaker Johnson (both R) — a genuine cross-partisan retention data point. Because the House Parliamentarian doesn't administer the Byrd Rule, the office's rulings draw far less press coverage than its Senate counterpart, and no sourced controversy or ruling dispute involving him turned up in this reporting; that thinner public record is disclosed here rather than treated as either a mark for or against him. Not to be confused with Rep. Jason Smith (R-MO), chair of the House Ways and Means Committee — a different person entirely.</p>
 </div>
 </div>
