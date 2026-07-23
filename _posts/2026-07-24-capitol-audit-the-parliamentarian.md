@@ -1,5 +1,5 @@
 ---
-title: "The Capitol Audit: The Parliamentarian. One Unelected Job That Can Kill a Bill Nobody Voted Against."
+title: "The Capitol Audit: The Parliamentarian. Nobody Elected Her. Almost Nobody Ever Overrules Her."
 date: 2026-07-24 10:00:00
 section: On the Scent
 series: capitol-audit
